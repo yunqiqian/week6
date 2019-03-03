@@ -167,7 +167,7 @@ header {
 ====================================*/
 
 .heroimage{
-  background-image: url("images/about.jpg"); /* The image used */
+  background-image: url("../images/about.jpg"); /* The image used */
   background-color: #122A36; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -226,14 +226,14 @@ header {
 	transform: scale(1.15);
 } */
 
-.galleryitems .gallery h4{
+.galleryitems .gallery h2{
   background-color: #24536c;
   padding-top: 1em;
   font-size: 1.5em;
   text-transform: uppercase;
 }
 
- .galleryitems .gallery h5{
+ .galleryitems .gallery h3{
   background-color: #24536c;
   padding-top: 0.5em;
   padding-bottom: 1.7em;
