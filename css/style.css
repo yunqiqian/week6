@@ -119,6 +119,10 @@ header {
       border-bottom-color: #122A36;
 }
 
+.main-menu a.currentpage{
+  border-bottom: 3px solid #122A36;
+}
+
 /*====================================
   DROPDOWN MENU STYLES
 ====================================*/
